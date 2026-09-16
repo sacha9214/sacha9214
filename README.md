@@ -2,9 +2,9 @@
 
 # Sacha
 
-Je construis des outils web, des bots et des jeux : données de marché, cartes en temps réel, assistant vocal local.
+Je construis des outils web, des bots Discord et des jeux : données de marché, cartes en temps réel, assistant vocal local.
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,threejs,nodejs,firebase,godot,lua,githubactions,netlify&perline=15" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Three.js, Node.js, Firebase, Godot, Lua, GitHub Actions, Netlify" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,threejs,nodejs,firebase,godot,lua,githubactions,netlify,discord&perline=16" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Three.js, Node.js, Firebase, Godot, Lua, GitHub Actions, Netlify, Discord" />
 
 </div>
 
@@ -16,6 +16,15 @@ Je construis des outils web, des bots et des jeux : données de marché, cartes 
 | **[Train Radar](https://github.com/sacha9214/train-radar)** · [démo](https://sacha9214.github.io/train-radar/) | Carte des trains TER en France, positions recalculées à la seconde à partir des horaires SNCF | Next.js · TypeScript · Leaflet |
 | **[Polymarket Overlap](https://github.com/sacha9214/polymarket-overlap)** · [démo](https://sacha9214.github.io/polymarket-overlap/) | Croise en direct les positions des meilleurs traders Polymarket et classe les meilleures entrées | JavaScript |
 | **[Halide Vault](https://github.com/sacha9214/halide-vault)** · [démo](https://halides.netlify.app) | Suivi de patrimoine multi-actifs (crypto, actions, skins CS2, métaux, Pokémon) avec prix en direct | Next.js · Firebase |
+
+## Bots Discord
+
+| Projet | Description | Stack |
+|---|---|---|
+| **[Polymarket Overlap Bot](https://github.com/sacha9214/polymarket-overlap-bot)** | Alerte quand les meilleurs traders Polymarket entrent sur un marché ou en sortent | Python · py-cord |
+| **[Coherence Bot](https://github.com/sacha9214/polymarket-coherence-bot)** | Repère les prix qui se contredisent entre marchés Polymarket liés et construit le portefeuille gagnant dans tous les cas | Python · py-cord |
+| **[Resolution Radar](https://github.com/sacha9214/polymarket-resolution-radar)** | Surveille la fin de vie des marchés Polymarket : litiges UMA, marchés échus jamais résolus | Python · py-cord |
+| **[Retro to Reality](https://github.com/sacha9214/retro-to-reality-bot)** | Bot communautaire : niveaux par messages et en vocal, modération, messages de bienvenue | Python · py-cord · SQLite |
 
 ## Jeux et simulations
 
