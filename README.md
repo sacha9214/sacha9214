@@ -13,6 +13,8 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 | Project | Description | Stack |
 |---|---|---|
 | **[Jarvis](https://github.com/sacha9214/jarvis-vocal)** | Local French-speaking voice assistant for macOS and Windows: speech recognition, natural voice, controls your computer, browser and code editor | Python · Whisper · Ollama |
+| **[backtest-autopsy](https://github.com/sacha9214/backtest-autopsy)** | Was that Sharpe ratio skill, or the best of N coin flips? Deflated Sharpe and PBO, applied to 44 retail trading recipes across 49 instruments | Python · NumPy · SciPy |
+| **[no-twice](https://github.com/sacha9214/no-twice)** | A coding agent forgets its mistakes between tasks. A trigger-indexed log it reads back before acting | Claude Code skill |
 | **[Train Radar](https://github.com/sacha9214/train-radar)** · [demo](https://sacha9214.github.io/train-radar/) | Live map of regional trains across France, positions recomputed every second from SNCF timetables | Next.js · TypeScript · Leaflet |
 | **[Polymarket Overlap](https://github.com/sacha9214/polymarket-overlap)** · [demo](https://sacha9214.github.io/polymarket-overlap/) | Cross-references top Polymarket traders' live positions and ranks the best entries | JavaScript |
 | **[Halide Vault](https://github.com/sacha9214/halide-vault)** · [demo](https://halides.netlify.app) | Multi-asset net worth tracker (crypto, stocks, CS2 skins, metals, Pokémon) with live prices | Next.js · Firebase |
