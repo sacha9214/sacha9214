@@ -34,7 +34,6 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 |---|---|---|
 | **[SDMIS Simulator](https://github.com/sacha9214/sdmis-sim)** · [demo](https://sacha9214.github.io/sdmis-sim/) | 3D ambulance call simulator for firefighter first-aid training: 4 clinical cases, MARCH assessment | Three.js |
 | **[RNG∞](https://github.com/sacha9214/rng-infinite)** · [play](https://sacha9214.github.io/rng-infinite/) | Unlimited RNGdle-style number game, engine validated against all 1,000,001 numbers, plus a Roblox version | JavaScript · Luau |
-| **[Angry Brainrot](https://github.com/sacha9214/angry-brainrot)** | Slingshot mobile game with original brainrot characters | Godot 4 · GDScript |
 
 ## Education
 
