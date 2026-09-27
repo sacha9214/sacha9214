@@ -4,7 +4,7 @@
 
 I build web tools, Discord bots and games: market data, real-time maps, a local voice assistant.
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,threejs,nodejs,firebase,godot,lua,githubactions,netlify,discord&perline=16" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Three.js, Node.js, Firebase, Godot, Lua, GitHub Actions, Netlify, Discord" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,threejs,nodejs,pytorch,firebase,godot,lua,githubactions,netlify,discord&perline=17" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Three.js, Node.js, PyTorch, Firebase, Godot, Lua, GitHub Actions, Netlify, Discord" />
 
 </div>
 
@@ -14,7 +14,9 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 |---|---|---|
 | **[Jarvis](https://github.com/sacha9214/jarvis-vocal)** | Local French-speaking voice assistant for macOS and Windows: speech recognition, natural voice, controls your computer, browser and code editor | Python · Whisper · Ollama |
 | **[backtest-autopsy](https://github.com/sacha9214/backtest-autopsy)** | Was that Sharpe ratio skill, or the best of N coin flips? Deflated Sharpe and PBO, applied to 44 retail trading recipes across 49 instruments | Python · NumPy · SciPy |
+| **[polymarket-fill-model](https://github.com/sacha9214/polymarket-fill-model)** | Would my resting order really have been filled? A queue-aware fill model that crosses the order book with the trade tape — and the write-up of a +6.9% return that turned out to be noise | Python |
 | **[no-twice](https://github.com/sacha9214/no-twice)** | A coding agent forgets its mistakes between tasks. A trigger-indexed log it reads back before acting | Claude Code skill |
+| **[claude-memory-graph](https://github.com/sacha9214/claude-memory-graph)** · [demo](https://sacha9214.github.io/claude-memory-graph/) | See what Claude Code remembers about you, as a graph: one `npx` command, and it finds dead links and memories the index never loads | Node · vis-network |
 | **[Train Radar](https://github.com/sacha9214/train-radar)** · [demo](https://sacha9214.github.io/train-radar/) | Live map of regional trains across France, positions recomputed every second from SNCF timetables | Next.js · TypeScript · Leaflet |
 | **[Polymarket Overlap](https://github.com/sacha9214/polymarket-overlap)** · [demo](https://sacha9214.github.io/polymarket-overlap/) | Cross-references top Polymarket traders' live positions and ranks the best entries | JavaScript |
 | **[Halide Vault](https://github.com/sacha9214/halide-vault)** · [demo](https://halides.netlify.app) | Multi-asset net worth tracker (crypto, stocks, CS2 skins, metals, Pokémon) with live prices | Next.js · Firebase |
@@ -32,8 +34,10 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 
 | Project | Description | Stack |
 |---|---|---|
+| **[RNG∞](https://github.com/sacha9214/rng-infinite)** · [play](https://rng-infinite.com) | Unlimited RNGdle-style number game, engine validated against all 1,000,001 numbers: online leaderboard, live duels, skins, plus a Roblox version | JavaScript · Luau |
 | **[SDMIS Simulator](https://github.com/sacha9214/sdmis-sim)** · [demo](https://sacha9214.github.io/sdmis-sim/) | 3D ambulance call simulator for firefighter first-aid training: 4 clinical cases, MARCH assessment | Three.js |
-| **[RNG∞](https://github.com/sacha9214/rng-infinite)** · [play](https://sacha9214.github.io/rng-infinite/) | Unlimited RNGdle-style number game, engine validated against all 1,000,001 numbers, plus a Roblox version | JavaScript · Luau |
+| **[Connect 4 — weak solution](https://github.com/sacha9214/connect4-weak-solution)** · [demo](https://sacha9214.github.io/connect4-weak-solution/) | Interactive 3D explorer of Connect 4's weak solution: play against it and watch your game travel through the graph (recreation of 2swap's video) | Three.js |
+| **[clash-ai](https://github.com/sacha9214/clash-ai)** | An AI learning Clash Royale through friendly battles on a real Android phone: live unit detection and tracking over a USB stream (work in progress) | Python · YOLOv8 · scrcpy |
 
 ## Education
 
@@ -43,9 +47,3 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 | **[French bac oral — general track](https://github.com/sacha9214/bac-premiere-generale)** · [site](https://sacha9214.github.io/bac-premiere-generale/) | The same for the general track, with 16 close readings | HTML · JavaScript |
 | **[Bac maths — STI2D](https://github.com/sacha9214/bac-math-sti2d)** · [site](https://sacha9214.github.io/bac-math-sti2d/) | 104 worked questions modeled on an exam paper | HTML · JavaScript |
 | **[Neurofeedback](https://github.com/sacha9214/neurofeedback-videos)** · [site](https://sacha9214.github.io/neurofeedback-videos/) | Neurofeedback videos and podcasts, organized by topic | HTML · JavaScript |
-
-## Experiments
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Claude Memory Graph](https://github.com/sacha9214/claude-memory-graph)** · [demo](https://sacha9214.github.io/claude-memory-graph/) | Interactive graph of Claude Code's memory and the Obsidian vault | vis-network |
