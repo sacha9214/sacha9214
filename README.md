@@ -6,6 +6,13 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 
 <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,react,tailwind,threejs,nodejs,pytorch,firebase,godot,lua,githubactions,netlify,discord&perline=17" alt="TypeScript, JavaScript, Python, HTML, CSS, Next.js, React, Tailwind, Three.js, Node.js, PyTorch, Firebase, Godot, Lua, GitHub Actions, Netlify, Discord" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sacha9214&theme=github_dark" alt="Contributions over the last year" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sacha9214&show_icons=true&hide_border=true&hide_title=true&theme=github_dark&hide=issues" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacha9214&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+
 </div>
 
 ## Tools & data
