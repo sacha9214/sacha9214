@@ -37,6 +37,7 @@ I build web tools, Discord bots and games: market data, real-time maps, a local 
 | **[RNG∞](https://github.com/sacha9214/rng-infinite)** · [play](https://rng-infinite.com) | Unlimited RNGdle-style number game, engine validated against all 1,000,001 numbers: online leaderboard, live duels, skins, plus a Roblox version | JavaScript · Luau |
 | **[SDMIS Simulator](https://github.com/sacha9214/sdmis-sim)** · [demo](https://sacha9214.github.io/sdmis-sim/) | 3D ambulance call simulator for firefighter first-aid training: 4 clinical cases, MARCH assessment | Three.js |
 | **[Connect 4 — weak solution](https://github.com/sacha9214/connect4-weak-solution)** · [demo](https://sacha9214.github.io/connect4-weak-solution/) | Interactive 3D explorer of Connect 4's weak solution: play against it and watch your game travel through the graph (recreation of 2swap's video) | Three.js |
+| **[Triple inverted pendulum](https://github.com/sacha9214/triple-pendule)** · [demo](https://sacha9214.github.io/triple-pendule/) | Can one cart balance three pendulums? Live physics simulation: LQR balancing, and when they fall the cart swings all three back up on its own | JavaScript · CasADi |
 | **[clash-ai](https://github.com/sacha9214/clash-ai)** | An AI learning Clash Royale through friendly battles on a real Android phone: live unit detection and tracking over a USB stream (work in progress) | Python · YOLOv8 · scrcpy |
 
 ## Education
